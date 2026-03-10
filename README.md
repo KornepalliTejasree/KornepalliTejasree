@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Kornepalli%20Tejasree&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
 # Kornepalli Tejasree
 
 Frontend Developer | Data Structures & Algorithms | Java & Python | B.Tech Student
@@ -30,7 +32,7 @@ I am a B.Tech student with a strong interest in frontend development and problem
 ## Projects
 
 ### AI Resume Analyzer
-A web application that analyzes resumes and provides insights on skills, improvements, and missing requirements for specific job roles.
+A web application that analyzes resumes and provides insights on skills, improvements, and missing requirements for specific job roles.https://www.linkedin.com/in/kornepalli-tejasree/
 
 ### Telemedicine for Rural Areas
 A web-based platform designed to connect patients in rural areas with doctors remotely.  
@@ -42,5 +44,5 @@ Second Year Completed
 
 ## Contact
 - Email: tejasree7718@gmail.com  
-- LinkedIn:https://www.linkedin.com/in/kornepalli-tejasree/ 
+- LinkedIn:https://www.linkedin.com/in/kornepalli-tejasree/
 - GitHub: https://github.com/tejasree.kornepalli
